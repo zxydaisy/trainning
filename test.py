@@ -1,2 +1,2 @@
 
-print("你好啊！")
+print("hello")
